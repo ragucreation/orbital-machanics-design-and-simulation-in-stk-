@@ -1,0 +1,39 @@
+                                               [CEC352]satellite communication
+                                                                             MINI PROJECT REPORT
+                                    ORBITAL MECHANICS SIMULATION USING STK
+Abstract:
+This project employs systems toolkit (stk) software to simulate and analyze satellite orbits, focusing on understanding orbital dynamics and optimizing mission parameters for improved satellite performance. Leveraging stk's capabilities in orbital mechanics modeling and visualization, the study explores keplerian dynamics, orbital parameters optimization, trajectory prediction, and atmospheric drag modeling. By adhering to kepler's laws of planetary motion, the project aims to unravel the complexities of satellite orbits and their interactions with environmental factors. Through meticulous simulation and analysis, the project provides valuable insights into optimizing satellite missions for enhanced coverage, visibility, and operational efficiency.
+Introduction:
+Satellite systems are integral to modern communication, navigation, and Earth observation endeavors. Understanding satellite orbits is crucial for optimizing mission performance and ensuring reliable communication links. This project utilizes STK software to simulate and analyze satellite orbits, leveraging its advanced features for orbital mechanics modeling and visualization.
+Objectives:
+Simulate satellite orbits based on Kepler's laws. Analyze the impact of orbital parameters on satellite coverage. Predict satellite trajectories and assess their accuracy.Model atmospheric drag effects on satellite orbits.
+Methodology:
+The project sets up the simulation environment in STK, simulating satellite orbits and analyzing the effects of orbital parameters. Trajectory predictions and atmospheric drag modeling are conducted to optimize mission planning and execution. Sensitivity analysis and optimization techniques are applied to explore optimal orbital configurations.
+Results and Discussion:
+Simulation results highlight the interplay between orbital parameters, mission objectives, and environmental factors. Analysis of coverage metrics and trajectory predictions provides insights into mission optimization. The findings underscore the importance of meticulous planning in satellite mission design.
+Conclusion:
+STK software offers effective tools for simulating and analyzing satellite orbits. By leveraging these capabilities, the project provides actionable insights for optimizing satellite missions. The findings contribute to advancements in satellite mission planning and execution, paving the way for further research in orbital mechanics and aerospace engineering.
+                                                                                              
+                                                                                                         
+                                       
+
+
+
+
+
+
+
+          
+                                           TEAM MEMBERS :
+                                                                    RAGUVARAN.R         [513121106074]
+                                                                    RAJESHKUMAR .V    [513121106075]
+
+
+
+
+
+                                                                     
+
+
+
+                                                                            
